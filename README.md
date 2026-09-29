@@ -1,7 +1,7 @@
 <h1 align="center">Álvaro Ballón Barreiro</h1>
 
 <p align="center">
-  <b>alvaroballon</b> · Matemáticas y Computación · Data Science & Machine Learning
+  Matemáticas y Computación · Data Science & Machine Learning
 </p>
 
 <p align="center">
