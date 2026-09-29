@@ -1,11 +1,11 @@
 <h1 align="center">Álvaro Ballón Barreiro</h1>
 
 <p align="center">
-  Matemáticas y Computación · Data Science & Machine Learning
+  Mathematics and Computing at UC3M · Data Science & Machine Learning
 </p>
 
 <p align="center">
-  Data Scientist Intern en WhiteBox · Ex-Research Intern en Topological Deep Learning (UC Santa Barbara)
+  Data Scientist Intern at WhiteBox · Ex-Research Intern at University of California, Santa Barbara
 </p>
 
 <p align="center">
