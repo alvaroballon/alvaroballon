@@ -8,18 +8,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaroballon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ballonbarreiro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=alvaroballon&style=for-the-badge&color=blueviolet" alt="Profile views">
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
-- 🎓 Estudio el **Grado en Matemáticas y Computación** en la **Universidad Carlos III de Madrid** y fui estudiante de intercambio en **UC Santa Barbara** (Dean's Honors, GPA 3.90/4.0 en Winter 2026).
+- 🎓 Estudio el **Grado en Matemáticas y Computación** en la **Universidad Carlos III de Madrid** y fui estudiante de intercambio en **University of California, Santa Barbara** (Dean's Honors).
 - 🔬 Investigué en el **Geometric Intelligence Lab (UCSB)** sobre Topological Deep Learning: cómo la estructura de los datos topológicos influye en el rendimiento de los modelos.
-- 📊 Actualmente soy **Data Scientist Intern en WhiteBox** (Madrid), desarrollando proyectos de ML para clientes reales, de principio a fin.
-- 📄 Coautor de un paper publicado en **PMLR** y presentado en **TAG-DS 2026** (Northeastern University).
-- 🗣️ Español, Inglés (C1/bilingüe), Francés (B2 DELF), Gallego.
+- 📊 Actualmente trabajo como **Data Scientist Intern en WhiteBox** (Madrid), desarrollando proyectos de ML para clientes reales.
+- 📄 Coautor de un paper publicado en **Proceedings of Machine Learning Research (PMLR)** y presentado en **TAG-DS 2026** (Northeastern University).
+- 🗣️ Español, Inglés (C1 Cambridge), Francés (B2 DELF), Gallego.
 
 ---
 
@@ -74,5 +73,5 @@
 ---
 
 <p align="center">
-  <i>⭐ ¡Gracias por pasarte! Si quieres hablar de ML, topología o datos, escríbeme.</i>
+  <i>⭐ ¡Gracias por pasarte! Si quieres hablar de matemáticas, ML o datos, escríbeme.</i>
 </p>
